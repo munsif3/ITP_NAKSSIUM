@@ -1,0 +1,6 @@
+insert into student_attendance values ('BIS180', 3, 'Munsif', 'Musthafa', '2016-07-22', '07:05:00', 1, null)
+insert into student_attendance values ('BIS180', 3, 'Munsif', 'Musthafa', '2016-07-23', '07:15:00', 1, null)
+insert into student_attendance values ('BIS180', 3, 'Munsif', 'Musthafa', '2016-07-28', null, 0, 'Sick')
+insert into student_attendance values ('BIS145', 8, 'Nahanaa', 'Gunasekaran', '2016-07-22', '07:10:00', 1, null)
+insert into student_attendance values ('BIS776', 1, 'Saranki', 'Rajah', '2016-07-22', '07:00:40', 1, null)
+insert into student_attendance values ('BIS345', 5, 'Kaushek', 'Roshan', '2016-07-22', null, 0, 'Sick')

@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BBDC9DC4-4702-428A-9321-03EB7C929CC7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StaffMain</RootNamespace>
+    <AssemblyName>StaffMain</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\..\..\..\MetroFramework_Version1.3.5\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\..\..\..\MetroFramework_Version1.3.5\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\..\..\..\MetroFramework_Version1.3.5\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AARALK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AARALK.Designer.cs">
+      <DependentUpon>AARALK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bisdbDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bisdbDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DBAccessStaff.cs" />
+    <Compile Include="DBAccessVacancy.cs" />
+    <Compile Include="LeaveRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeaveRequest.Designer.cs">
+      <DependentUpon>LeaveRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoggedIn.cs" />
+    <Compile Include="Payroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payroll.Designer.cs">
+      <DependentUpon>Payroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffDetail.Designer.cs">
+      <DependentUpon>StaffDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffFamily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffFamily.Designer.cs">
+      <DependentUpon>StaffFamily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffMainForm.Designer.cs">
+      <DependentUpon>StaffMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Termination.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Termination.Designer.cs">
+      <DependentUpon>Termination.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vacancy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vacancy.Designer.cs">
+      <DependentUpon>Vacancy.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AARALK.resx">
+      <DependentUpon>AARALK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeaveRequest.resx">
+      <DependentUpon>LeaveRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payroll.resx">
+      <DependentUpon>Payroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffDetail.resx">
+      <DependentUpon>StaffDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffFamily.resx">
+      <DependentUpon>StaffFamily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffMainForm.resx">
+      <DependentUpon>StaffMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Termination.resx">
+      <DependentUpon>Termination.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vacancy.resx">
+      <DependentUpon>Vacancy.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bisdbDataSet1.xsc">
+      <DependentUpon>bisdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet1.xss">
+      <DependentUpon>bisdbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet11.xsc">
+      <DependentUpon>bisdbDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet11.xss">
+      <DependentUpon>bisdbDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet2.xsc">
+      <DependentUpon>bisdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bisdbDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bisdbDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bisdbDataSet2.xss">
+      <DependentUpon>bisdbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conference_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resume_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leave_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banknotes_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report_card_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\SMS\SQLServerDatabaseAccess\SQLServerDatabaseAccess.csproj">
+      <Project>{078e89b9-c6ee-4ac9-86c6-cf537ca3a000}</Project>
+      <Name>SQLServerDatabaseAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

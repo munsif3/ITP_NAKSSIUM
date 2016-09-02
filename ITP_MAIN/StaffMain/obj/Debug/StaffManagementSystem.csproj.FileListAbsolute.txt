@@ -1,0 +1,63 @@
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.exe
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\StaffMain.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.AARALK.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.LeaveRequest.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Payroll.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Report.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffDetail.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffFamily.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffMainForm.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Termination.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Vacancy.resources
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.exe
+C:\Users\User\documents\visual studio 2013\Projects\ITP_MAIN\StaffMain\obj\Debug\StaffMain.pdb
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\bin\Debug\StaffMain.pdb
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.AARALK.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.LeaveRequest.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Payroll.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Properties.Resources.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Report.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffDetail.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffFamily.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffMainForm.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Termination.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Vacancy.resources
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.pdb
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\bin\Debug\StaffMain.dll.config
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\bin\Debug\StaffMain.dll
+C:\Users\Neruppuda\Desktop\ITP_MAIN\StaffMain\obj\Debug\StaffMain.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\StaffMain.dll.config
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\StaffMain.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\StaffMain.pdb
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.AARALK.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.LeaveRequest.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Payroll.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Properties.Resources.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Report.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffDetail.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffFamily.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.StaffMainForm.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Termination.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.Vacancy.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffManagementSystem.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_MAIN\StaffMain\obj\Debug\StaffMain.pdb

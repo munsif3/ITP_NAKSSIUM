@@ -1,0 +1,12 @@
+C:\Users\Neruppuda\Desktop\SMS\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll.config
+C:\Users\Neruppuda\Desktop\SMS\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Neruppuda\Desktop\SMS\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Neruppuda\Desktop\SMS\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\Neruppuda\Desktop\SMS\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Neruppuda\Desktop\SMS\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Desktop\ITP PROJECTS\SMS\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll.config
+C:\Users\User\Desktop\ITP PROJECTS\SMS\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Desktop\ITP PROJECTS\SMS\SQLServerDatabaseAccess\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Desktop\ITP PROJECTS\SMS\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ITP PROJECTS\SMS\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Desktop\ITP PROJECTS\SMS\SQLServerDatabaseAccess\obj\Debug\SQLServerDatabaseAccess.pdb

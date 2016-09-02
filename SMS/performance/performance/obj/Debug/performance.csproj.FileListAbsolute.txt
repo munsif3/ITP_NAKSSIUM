@@ -1,0 +1,48 @@
+c:\users\ihsan izwer\documents\visual studio 2013\Projects\performance\performance\bin\Debug\performance.exe.config
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\performance.exe
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\MetroFramework.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.Properties.Resources.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.csproj.GenerateResource.Cache
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.exe
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.pdb
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.csprojResolveAssemblyReference.cache
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.ManageAwardsPrizes.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.ManageExtraCurricular.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.ManagePerformance.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\obj\Debug\performance.PerformanceMenu.resources
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Ihsan Izwer\Documents\Visual Studio 2013\Projects\performance\performance\bin\Debug\SQLServerDatabaseAccess.pdb
+J:\SMS\performance\performance\bin\Debug\performance.exe.config
+J:\SMS\performance\performance\obj\Debug\performance.exe
+J:\SMS\performance\performance\obj\Debug\performance.pdb
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\bin\Debug\performance.exe.config
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\bin\Debug\performance.exe
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\bin\Debug\performance.pdb
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.csprojResolveAssemblyReference.cache
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.ManageAwardsPrizes.resources
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.ManageExtraCurricular.resources
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.ManagePerformance.resources
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.PerformanceMenu.resources
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.Properties.Resources.resources
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.csproj.GenerateResource.Cache
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.exe
+C:\Users\Neruppuda\Desktop\SMS\performance\performance\obj\Debug\performance.pdb
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\bin\Debug\performance.exe.config
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\bin\Debug\performance.exe
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\bin\Debug\performance.pdb
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.ManageAwardsPrizes.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.ManageExtraCurricular.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.ManagePerformance.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.PerformanceMenu.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.Properties.Resources.resources
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.exe
+C:\Users\User\Desktop\ITP PROJECTS\SMS\performance\performance\obj\Debug\performance.pdb

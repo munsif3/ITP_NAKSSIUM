@@ -1,0 +1,82 @@
+
+//ADMISSION DETAILS
+
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP001   ', N'Nahanaa', N'Gunasekeran', N'2014-05-05', N'2014-05-15', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP002   ', N'Saranki', N'Mahendrarajah', N'2014-06-10', N'2014-06-13', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP003   ', N'Munsif', N'Musthafa', N'2014-09-21', N'2014-09-22', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP004   ', N'Sudheesan', N'Surendran', N'2014-09-21', N'2014-09-23', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP005   ', N'Kavushica', N'Rasanayagam', N'2015-01-05', N'2015-01-08', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP006   ', N'Usama', N'Mohammed', N'2015-01-08', N'2015-01-09', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP007   ', N'Ihzaan', N'Izwer', N'2014-10-10', N'2014-10-13', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP008   ', N'Divvyashini', N'Ganeshamoorthy', N'2014-12-01', N'2014-12-10', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP009   ', N'WIckram', N'Bagawathinathan', N'2015-02-24', N'2015-02-26', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP010   ', N'Kaushek', N'Roshan', N'2015-02-02', N'2014-02-04', 1)
+INSERT INTO [dbo].[admission] ([application_no], [name], [surname], [applied_date], [interview_date], [interview_status]) VALUES (N'AP011   ', N'Jane', N'Jack', N'2015-05-05', N'2014-05-10', 0)
+
+//STUDENT DETAILS
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP001   ', N'BIS001 ', N'Nahanaa', N'Gunasekeran', N'1995-01-26', N'Female', N'074937448', N'No, 6, Moratuwa', N'AS', N'18', N'SriLankan', N'10 ', N'2014', N'nahanaag@yahoo.com', N'B+ ', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP002   ', N'BIS002 ', N'Saranki', N'Mahendrarajah', N'1994-04-07', N'Female', N'0773785454', N'No:2, Wellawatte', N'A2', N'19', N'SriLankan', N'10 ', N'2014', N'saranki.m@gmail.com', N'O  ', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP003   ', N'BIS003 ', N'Musthafa', N'Munsif', N'1995-11-03', N'Male', N'0714569852', N'No,11/2, Rajagiriya', N'AS', N'18', N'SriLankan', N'10 ', N'2014', N'imm5@gmail.com', N'O- ', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP004   ', N'BIS004 ', N'Sudheesan', N'Surendran', N'1995-12-27', N'Male', N'0778958485', N'No:11, Kotahena', N'A2', N'18', N'SriLankan', N'10 ', N'2014', N'sudee.s@yahoo.com', N'O- ', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP005   ', N'BIS005 ', N'Kavushica', N'Rasanayagam', N'1994-07-27', N'Female', N'0778935685', N'No,12/2, Kotahena', N'A2', N'19', N'SriLankan', N'09 ', N'2014', N'kavushi.r@yahoo.com', N'O- ', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP006   ', N'BIS006 ', N'Usama', N'Mohammed', N'1994-07-15', N'Male', N'0774563145', N'Colombo-13', N'AS', N'19', N'SriLankan', N'09 ', N'2014', N'usama@yahoo.com', N'AB-', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP007   ', N'BIS007 ', N'Ihzaan', N'Ihzwer', N'1995-03-15', N'Male', N'0774598712', N'Dehiwala', N'A2', N'18', N'SriLankan', N'09 ', N'2015', N'ihzaani@gmail.com', N'AB-', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP008   ', N'BIS008 ', N'Divvyashini', N'Ganeshamoorthy', N'1996-12-01', N'Female', N'0776985444', N'Havelock', N'10', N'18', N'Srilankan', N'09 ', N'2015', N'divvya@yahoo.com', N'B+ ', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP009   ', N'BIS009 ', N'Wickram', N'Bagawathinathan', N'1995-02-24', N'Male', N'0778489652', N'no:4, colombo-06', N'10', N'18', N'SriLankan', N'08 ', N'2015', N'wicky@gmail.com', N'O+ ', NULL)
+INSERT INTO [dbo].[student] ([application_no], [admission_no], [name], [surname], [date_of_birth], [gender], [contact], [address], [present_grade], [age], [nationality], [class_enrolled], [year_enrolled], [email], [blood_group], [barcode]) VALUES (N'AP010   ', N'BIS010 ', N'Kaushek', N'Roshan', N'1995-10-30', N'Male', N'0778954123', N'Kirulapone', N'A2', N'18', N'SriLankan', N'09 ', N'2015', N'kaushek@gmaill.com', N'AB-', NULL)
+
+//Parent_Details
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G001', N'Father', N'Gunasekeran', N'BIS001 ', N'gunasekaran@yahoo.com', N'0778678617', N'Business', N'no:12, colombo 12', N'0112569858')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G002', N'Father', N'Mahendrarajah', N'BIS002 ', N'', N'0774587488', N'Doctor', N'no:11, Dehiwala', N'0112589894')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G003', N'Mother', N'Dharshini', N'BIS003 ', N'dharshi@gmail.com', N'0772885794', N'Doctor', N'Wellawatte', N'011256985')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G004', N'Legal', N'Roshan', N'BIS004 ', N'roshan.g@gmail.com', N'Business', N'0772497244', N'32/2, Bambalapitiya', N'0112987456')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G005', N'Mother', N'Dhanushiya', N'BIS005 ', N'', N'Teacher', N'0777845134', N'32/2, Dehiwala', N'0112878565')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G006', N'Legal', N'Roshan', N'BIS006 ', N' ', N'Business', N'077358744', N'32/2, Bambalapitiya', N'011247898')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G007', N'Father', N'Niresh', N'BIS007 ', N'niresh@gmail.com', N'Accountant', N'0775911073', N'32/2, Bambalapitiya', N'0112987456')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G008', N'Legal', N'Thulasi', N'BIS008 ', N'', N'Teacher', N'0772497244', N'32/2, Wellawatte', N'0112987456')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G009', N'Mother', N'Roshani', N'BIS009 ', N'', N'Business', N'0772497244', N'12, Bambalapitiya', N'0112987456')
+INSERT INTO [dbo].[parent_details] ([guardian_id], [guardian_type], [name], [admission_no], [email], [contact], [occupation], [work_address], [work_contact_no]) VALUES (N'G010', N'Father', N'Jay', N'BIS009 ', N'Jay.g@gmail.com', N'Doctor', N'0772497244', N'32/2, Bambalapitiya', N'0114587456')
+
+
+//Health Details
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS001 ', N'Nahanaa', N'H001', N'2013-01-26', N'Rubella', N'Skin allergy')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS002 ', N'Saranki', N'H002', N'2013-01-25', N'Rubella', N'Migraine')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS003 ', N'Munsif', N'H003', N'2013-01-26', N'ChickenPox', N'Skin allergy')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS004 ', N'Sudheeshan', N'H004', N'2013-01-25', N'ChickenPox', N'Migraine')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS005 ', N'Kavushika', N'H005', N'2014-01-26', N' Rubella', N'Dust Allergy')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS006 ', N'Usama', N'H006', N'2014-01-26', N' ChickenPox', N'Dust Allergy')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS007 ', N'Ihzaan', N'H007', N'2013-01-26', N'Rubella', N'Skin allergy')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS008 ', N'Divvyahsini', N'H008', N'2013-01-25', N'Rubella', N'Migraine')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS009 ', N'Wickram', N'H009', N'2014-01-26', N' ChickenPox', N'Dust Allergy')
+INSERT INTO [dbo].[heath_details] ([admission_no], [name], [health_id], [vaccined_date], [vaccied_type], [issue]) VALUES (N'BIS010 ', N'Kaushek', N'H010', N'2014-01-26', N' ChickenPox', N'Dust Allergy')
+
+
+
+//Fees_Details
+
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS001 ', N'Nahanaa', N'P001                ', N'2012-12-01', 1, 60000, N'Fees')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS002 ', N'Saranki', N'P002                ', N'2013-01-01', 1, 5000, N'Extra')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS003 ', N'Munsif', N'P003                ', N'2013-01-14', 1, 2500, N'Exam')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS004 ', N'Sudheesan', N'P004                ', N'2012-12-01', 1, 60000, N'Exam')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS005 ', N'Kavushika', N'P005                ', N'2013-01-01', 1, 5000, N'Extra')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS006 ', N'Usama', N'P006                ', N'2013-01-14', 1, 2500, N'Exam')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS007 ', N'Ihzaan', N'P007                ', N'2012-12-01', 1, 60000, N'Fees')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS008 ', N'Divvyahsini', N'P008                ', N'2013-01-01', 1, 5000, N'Extra')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS009 ', N'Kaushek', N'P009                ', N'2013-01-14', 1, 2500, N'Exam')
+INSERT INTO [dbo].[fees] ([admission_no], [name], [payment_id], [paid_date], [receipt], [amount], [feestype]) VALUES (N'BIS010 ', N'Wickram', N'P010                ', N'2012-12-01', 1, 60000, N'Fees')
+
+
+
+//Donation
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS001 ', N'Nahanaa', N'P001                ', N'2013-10-11', 1, N'Money', 250000)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS002 ', N'Saranki', N'P002                ', N'2014-10-21', 1, N'Computers', 250000)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS003 ', N'Munsif', N'P003                ', N'2012-11-11', 1, N'Money', 34500)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS004 ', N'Sudheesan', N'P004                ', N'2012-10-01', 1, N'Money', 64000)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS005 ', N'Kavushika', N'P005                ', N'2013-10-11', 1, N'Money', 4500)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS006 ', N'Usama', N'P006                ', N'2014-10-21', 1, N'Computers', 2500)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS007 ', N'Ihzaan', N'P007                ', N'2012-11-11', 1, N'Money', 120000)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS008 ', N'Divvyahsini', N'P008                ', N'2012-10-01', 1, N'Money', 7000)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS009 ', N'Kaushek', N'P009                ', N'2012-11-11', 1, N'Money', 10000)
+INSERT INTO [dbo].[donation] ([admission_no], [name], [payment_id], [paid_date], [receipt], [donationtype], [donationvalue]) VALUES (N'BIS010 ', N'Wickram', N'P010                ', N'2012-10-01', 1, N'Money', 40000)
+
+surendransudheesan@gmail.com

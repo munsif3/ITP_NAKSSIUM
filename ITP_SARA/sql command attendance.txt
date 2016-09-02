@@ -1,0 +1,29 @@
+CREATE TABLE [dbo].[student_attendance](
+	[admission_no] [char](7) NOT NULL,
+	[roll_no] [int] NULL,
+	[name] [varchar](30) NULL,
+	[surname] [varchar](40) NULL,
+	[date] [date] NOT NULL,
+	[dateStatus] [varchar](20) NULL,
+	[time_in] [time](7) NULL,
+	[status] [varchar](10) NULL,
+	[reason] [varchar](10) NULL,
+ CONSTRAINT [pk_stud_fin] PRIMARY KEY CLUSTERED 
+
+
+
+
+CREATE TABLE [dbo].[student_attend_history](
+	[admission_no] [char](7) NOT NULL,
+	[roll_no] [int] NULL,
+	[first_name] [varchar](40) NULL,
+	[last_name] [varchar](40) NULL,
+	[year] [int] NOT NULL,
+	[tot_days] [int] NULL,
+	[total_present] [int] NULL,
+	[present_percentage] [real] NULL,
+	[total_absent] [int] NULL,
+	[absent_percentage] [real] NULL,
+ CONSTRAINT [pk_year_1] PRIMARY KEY CLUSTERED 
+
+

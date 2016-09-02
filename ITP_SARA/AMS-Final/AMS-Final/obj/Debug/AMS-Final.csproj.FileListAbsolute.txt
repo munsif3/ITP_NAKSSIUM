@@ -1,0 +1,43 @@
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\bin\Debug\AMS-Final.exe.config
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\bin\Debug\AMS-Final.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\bin\Debug\AMS-Final.pdb
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\bin\Debug\MetroFramework.Design.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\bin\Debug\MetroFramework.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS_Final.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS_Final.Home.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS_Final.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS_Final.staffAttendance.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS_Final.staffSalaryDetails.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS_Final.StudentAttendance.resources
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS-Final.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS-Final.exe
+C:\Users\Home\Documents\Visual Studio 2013\Projects\AMS-Final\AMS-Final\obj\Debug\AMS-Final.pdb
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\AMS-Final.pdb
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.csprojResolveAssemblyReference.cache
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.Home.resources
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.Properties.Resources.resources
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.staffAttendance.resources
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.staffSalaryDetails.resources
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.StudentAttendance.resources
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.csproj.GenerateResource.Cache
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.pdb
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\AMS-Final.dll.config
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\AMS-Final.dll
+C:\Users\Neruppuda\Desktop\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\AMS-Final.dll.config
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\AMS-Final.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\AMS-Final.pdb
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.Home.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.Properties.Resources.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.staffAttendance.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.staffSalaryDetails.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS_Final.StudentAttendance.resources
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.dll
+C:\Users\User\Desktop\ITP PROJECTS\ITP_SARA\AMS-Final\AMS-Final\obj\Debug\AMS-Final.pdb

@@ -1,0 +1,32 @@
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.exe.config
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.exe
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.pdb
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.csprojResolveAssemblyReference.cache
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.admission.resources
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Form1.resources
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.studentDetails.resources
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Form3.resources
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.payment.resources
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Properties.Resources.resources
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.update.resources
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.csproj.GenerateResource.Cache
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.exe
+C:\Users\Neruppuda\Desktop\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.pdb
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.exe.config
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.exe
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SMSystemNew.pdb
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SQLServerDatabaseAccess.dll
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\bin\Debug\SQLServerDatabaseAccess.pdb
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.admission.resources
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Form1.resources
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.studentDetails.resources
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Form3.resources
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.payment.resources
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.Properties.Resources.resources
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.update.resources
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.exe
+C:\Users\User\Desktop\ITP PROJECTS\AAAA FINAL ITP\SMSystemNew\SMSystemNew\obj\Debug\SMSystemNew.pdb
